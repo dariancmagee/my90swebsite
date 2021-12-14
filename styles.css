@@ -14,4 +14,12 @@ h1 {
     display: block;
     margin: 0 auto;
   }
+
+  .flex-container {
+    display: flex;
+  }
   
+  h2 {
+    text-align: center;
+    color: green;
+  }
